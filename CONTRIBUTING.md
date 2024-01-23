@@ -1,7 +1,4 @@
-# How to Contribute
-
-We'd love to accept your patches and contributions to this project. There are
-just a few small guidelines you need to follow.
+> This repository is not currently maintained.
 
 ## Contributor License Agreement
 
@@ -27,35 +24,3 @@ information on using pull requests.
 
 This project follows
 [Google's Open Source Community Guidelines](https://opensource.google/conduct/).
-
-## Discussion
-
-Feel free to join us on the #fourkeys channel on the [Google Cloud Platform Slack](https://goo.gle/gcp-slack)! 
-
-## Office Hours
-
-We'll be hosting office hours every two weeks at **11AM PT**. Please come if you need help or have general questions. 
-
-```
-Four Keys Office Hours
-Biweekly · 11:00 – 11:30am PT
-Google Meet joining info
-Video call link: https://meet.google.com/rcc-qepb-jya
-Or dial: (US) +1 316-512-1050 PIN: 132 793 518#
-More phone numbers: https://tel.meet/rcc-qepb-jya?pin=3556509734950
-```
-
-Upcoming dates:
-- Apr 12, 2022
-- Apr 26, 2022
-- May 10, 2022
-- May 24, 2022
-- Jun 07, 2022
-- Jun 21, 2022
-
-## Meetups
-
-We'll be hosting quarterly meetups to discuss proposed changes, integrations, roadmaps, etc.  
-
-Next Meetup TBD
-
